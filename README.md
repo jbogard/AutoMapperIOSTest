@@ -1,0 +1,2 @@
+AutoMapperIOSTest
+=================
